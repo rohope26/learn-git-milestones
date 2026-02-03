@@ -282,7 +282,7 @@ Row | Step | Description | Completed
 6 | 4-2 | Link to `commit #2 from Github Desktop` | https://github.com/rohope26/learn-git-milestones/commit/9f4396c0496dd73de85cdc08bc774abeb5cb131d
 7 | 5-1 | Full path to your working directory | /Users/rosshope/GitHub/learn-git-milestones
 8 | 5-2 | Link to `commit #3 from CLI` | https://github.com/omundy/learn-git-milestones/commit/ffec068275972f4871feed3fdecffdeefa02d097
-9 | 6-1 | Link to `first-website` github.com repo page |
+9 | 6-1 | Link to `first-website` github.com repo page | https://github.com/rohope26/first-website
 10 | 7-1 | Link to `first-website` github.io "project site" |
 
 
