@@ -279,7 +279,7 @@ Row | Step | Description | Completed
 3 | 3-3 | Link to markdown tables docs | https://github.com/rohope26/learn-git-milestones/commit/228df920dfb6627b1a54c981f691e8448b026eb1
 4 | 3-4 | What does `log` do? | shows the commit log
 5 | 4-1 | 2nd Favorite emoji | 🫡
-6 | 4-2 | Link to `commit #2 from Github Desktop` |
+6 | 4-2 | Link to `commit #2 from Github Desktop` | https://github.com/rohope26/learn-git-milestones/commit/9f4396c0496dd73de85cdc08bc774abeb5cb131d
 7 | 5-1 | Full path to your working directory |
 8 | 5-2 | Link to `commit #3 from CLI` |
 9 | 6-1 | Link to `first-website` github.com repo page |
